@@ -18,17 +18,6 @@ publish them  somewhere and re-publish  after making
 modifications. With dotjs, just add or edit files in
 `~/.js`.
 
-## Example
-
-    $ cat ~/.js/github.com.js
-    // swap github logo with trollface
-    $('#header .logo img')
-      .css('width', '100px')
-      .css('margin-top', '-15px')
-      .attr('src', '//bit.ly/ghD24e')
-
-![](https://bit.ly/gAHTbC)
-
 ## Installation
 
 1. Ensure you have defunkt's dotjs installed and running.

@@ -21,7 +21,7 @@ modifications. With dotjs, just add or edit files in
 ## Installation
 
 1. Ensure you have defunkt's dotjs installed and running.
-2. [Install the extension](https://github.com/downloads/wfarr/dotjs.safariextension/dotjs.safariextz)
+2. [Install the extension](https://github.com/wfarr/dotjs.safariextension/blob/master/dotjs.safariextz?raw=true)
 
 ## How It Works
 

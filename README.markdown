@@ -23,6 +23,15 @@ modifications. With dotjs, just add or edit files in
 1. Ensure you have defunkt's dotjs installed and running.
 2. [Install the extension](https://github.com/wfarr/dotjs.safariextension/blob/master/dotjs.safariextz?raw=true)
 
+### Manual Installation
+
+1. Clone this repo locally, hack
+2. Obtain and install a Safari developer certificate from http://developer.apple.com
+3. In Safari, enable the Develop menu: Safari > Preferences… > Advanced > Show Develop menu in menu bar
+4. Open the Extension Builder: Develop > Show Extension Builder
+5. Add your custom extension by clicking + > Add Extension…
+6. Install!
+
 ## How It Works
 
 The dotjs Safari extension then makes ajax requests
